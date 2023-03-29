@@ -1,0 +1,94 @@
+/*
+Jason Sebastian Tjoang (00000055443)
+*/
+
+h1{
+    font-family: 'Courier', monospace;
+    font-weight: bold;
+}
+
+body{
+    background-image: url("asset/start.jpg");
+}
+
+#headsem, #gameday, #gameclock, #gamename{
+    font-family: 'Courier', monospace;
+    font-weight: bold !important;
+}
+
+#gameover{
+    font-family: 'Courier', monospace !important;
+    font-weight: bold underline !important;
+}
+
+.upperarea{
+    border: 1px solid;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    border-color:black;
+}
+
+img.avatar{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.buttonavatar{
+    color: black;
+    padding: 0.5em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 2px 1px;
+    border-radius: 50%;
+}
+
+.statsbar{
+    border: solid 1px black;
+    background-color: #FFDFD3;
+}
+
+.progressbardiv{
+    background-color: black;
+    height: 100%;
+}
+
+.statsbarimg1{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.statsbarimg{
+    margin-right: 10px;
+}
+
+.progress-bar{
+    border: solid 1px black;
+}
+
+.interactl{
+    margin-right: 1em;
+    min-width: 80px;
+    max-width: 80px;
+}
+.interactr{
+    margin-left: 1em;
+    min-width: 80px;
+    max-width: 80px;
+}
+
+#avatardiv {
+    background-image: url("asset/door.jpg") !important;
+    background-size: 110% !important;
+}
+
+#avatardiv img{
+    width:300px;
+    height:300px;
+}
+
+/*
+Jason Sebastian Tjoang (00000055443)
+*/
